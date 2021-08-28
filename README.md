@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thebgcs (you can find me on instagram as well)
-- 🌱 I’m currently learning Web/Mobile Development and Blockchain
+- 🌱 Web/Mobile Development and Blockchain
 - 👀 I’m looking to collaborate on decentralized project
 - 📫 Reach me on br.gabriel10@gmail.com
 
